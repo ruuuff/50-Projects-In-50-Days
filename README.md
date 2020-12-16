@@ -9,11 +9,10 @@ Este repositório contém o link de todos os projetos que desenvolvi durante o c
 - <a href="https://github.com/ruuuff/blurry-loading">Blurry Loading</a>
 - <a href="https://github.com/ruuuff/scroll-animation">Scroll Animation</a>
 - <a href="https://github.com/ruuuff/split-landing-page">Split Landing Page</a>
-
+- <a href="https://github.com/ruuuff/form-wave">Form Wave</a>
 
 ## ✈️ Tecnologias
 Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
-- <a href="https://fontawesome.com/">Font Awesome</a>
