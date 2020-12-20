@@ -10,8 +10,8 @@ Este repositório contém o link de todos os projetos que desenvolvi durante o c
 - <a href="https://github.com/ruuuff/scroll-animation">Scroll Animation</a>
 - <a href="https://github.com/ruuuff/split-landing-page">Split Landing Page</a>
 - <a href="https://github.com/ruuuff/form-wave">Form Wave</a>
-- <a href="https://github.com/ruuuff/sound-board">Form Wave</a>
-- <a href="https://github.com/ruuuff/dad-jokes">Form Wave</a>
+- <a href="https://github.com/ruuuff/sound-board">Sound Board</a>
+- <a href="https://github.com/ruuuff/dad-jokes">Dad Jokes</a>
 
 
 ## ✈️ Tecnologias
