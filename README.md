@@ -12,6 +12,8 @@ Este repositório contém o link de todos os projetos que desenvolvi durante o c
 - <a href="https://github.com/ruuuff/form-wave">Form Wave</a>
 - <a href="https://github.com/ruuuff/sound-board">Sound Board</a>
 - <a href="https://github.com/ruuuff/dad-jokes">Dad Jokes</a>
+- <a href="https://github.com/ruuuff/event-keycodes">Event Keycodes</a>
+- <a href="https://github.com/ruuuff/faq-collapse">FAQ Collapse</a>
 
 
 ## ✈️ Tecnologias
