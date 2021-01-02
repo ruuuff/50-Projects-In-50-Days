@@ -16,6 +16,7 @@ Este repositório contém o link de todos os projetos que desenvolvi durante o c
 - <a href="https://github.com/ruuuff/event-keycodes">Event Keycodes</a>
 - <a href="https://github.com/ruuuff/faq-collapse">FAQ Collapse</a>
 - <a href="https://github.com/ruuuff/random-choice-picker">Random Choice Picker</a>
+- <a href="https://github.com/ruuuff/animated-navigation">Animated Navigation</a>
 
 
 ## ✈️ Tecnologias
