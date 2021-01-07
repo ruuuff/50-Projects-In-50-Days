@@ -19,6 +19,7 @@ Este repositório contém o link de todos os projetos que desenvolvi durante o c
 - <a href="https://github.com/ruuuff/animated-navigation">Animated Navigation</a>
 - <a href="https://github.com/ruuuff/incrementing-counter">Incrementing Counter</a>
 - <a href="https://github.com/ruuuff/drink-water">Drink Water</a>
+- <a href="https://github.com/ruuuff/movie-app">Movie App</a>
 
 
 ## ✈️ Tecnologias
