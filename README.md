@@ -92,8 +92,8 @@ Este repositório contém o link de todos os projetos que desenvolvi durante o c
   <tr>
     <td>17</td>
     <td><a href="https://github.com/ruuuff/movie-app">Movie App</a></td>
-    <td><a href="https://movie-app-ruuuff.netlify.app/">Live Demo</a></td>
-  </tr align="center">
+    <td align="center"><a href="https://movie-app-ruuuff.netlify.app/">Live Demo</a></td>
+  </tr>
 </table>
 
 ## ✈️ Tecnologias
