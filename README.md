@@ -12,7 +12,7 @@ Este repositório contém o link de todos os projetos que desenvolvi durante o c
   <tr>
     <td>01</td>
     <td><a href="https://github.com/ruuuff/expanding-cards">Expanding Cards</a></td>
-    <td><a href="https://expanding-cards-ruuuff.netlify.app">Live Demo</a></td>
+    <td align="center"><a href="https://expanding-cards-ruuuff.netlify.app">Live Demo</a></td>
   </tr>
   <tr>
     <td>02</td>
@@ -101,35 +101,3 @@ Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
-
-
-<style>
-  table {
-    border-collapse: collapse;
-    width: 100%;
-    max-width: 350px;
-    margin: 0 auto;
-  }
- 
-  td, th {
-    border: 1px solid #888;
-    padding: 5px 10px;
-    color: #000;
-  }
-  
-  tr td:last-child {
-    text-align: center;
-  }
-  
-  table tr:first-child {
-    background-color: #fff;
-  }
-  
-  tr:nth-of-type(odd) {
-    background-color: #E7EDF7;
-  }
-  
-  tr:nth-of-type(even) {
-    background-color: #fff;
-  }
-</style>
