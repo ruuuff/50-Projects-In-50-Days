@@ -99,6 +99,11 @@ Este repositório contém o link de todos os projetos que desenvolvi durante o c
     <td><a href="https://github.com/ruuuff/background-slider">Background Slider</a></td>
     <td align="center"><a href="https://background-slider-ruuuff.netlify.app/">Live Demo</a></td>
   </tr>
+  <tr>
+    <td>19</td>
+    <td><a href="https://github.com/ruuuff/theme-clock">Theme Clock</a></td>
+    <td align="center"><a href="https://theme-clock-ruuuff.netlify.app/">Live Demo</a></td>
+  </tr>
 </table>
 
 ## ✈️ Tecnologias
