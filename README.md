@@ -106,7 +106,7 @@ Este repositório contém o link de todos os projetos que desenvolvi durante o c
   </tr>
   <tr>
     <td>20</td>
-    <td><a href="https://github.com/ruuuff/button-ripple-effect">Button Ripple effect</a></td>
+    <td><a href="https://github.com/ruuuff/button-ripple-effect">Button Ripple Effect</a></td>
     <td align="center"><a href="https://button-ripple-effect-ruuuff.netlify.app/">Live Demo</a></td>
   </tr>
 </table>
