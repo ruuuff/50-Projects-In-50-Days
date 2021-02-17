@@ -127,6 +127,11 @@ Este repositório contém o link de todos os projetos que desenvolvi durante o c
       <td><a href="https://github.com/ruuuff/kinetic-loader">Kinetic Loader</a></td>
       <td align="center"><a href="https://kinetic-loader-ruuuff.netlify.app/">Live Demo</a></td>
     </tr>
+    <tr>
+      <td>24</td>
+      <td><a href="https://github.com/ruuuff/content-placeholder">Content Placeholder</a></td>
+      <td align="center"><a href="https://content-placeholder-ruuuff.netlify.app/">Live Demo</a></td>
+    </tr>
   </tbody>
 </table>
 
