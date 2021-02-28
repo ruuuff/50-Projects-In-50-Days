@@ -132,6 +132,11 @@ Este repositório contém o link de todos os projetos que desenvolvi durante o c
       <td><a href="https://github.com/ruuuff/content-placeholder">Content Placeholder</a></td>
       <td align="center"><a href="https://content-placeholder-ruuuff.netlify.app/">Live Demo</a></td>
     </tr>
+    <tr>
+      <td>25</td>
+      <td><a href="https://github.com/ruuuff/sticky-navbar">Sticky Navbar</a></td>
+      <td align="center"><a href="https://sticky-navbar-ruuuff.netlify.app/">Live Demo</a></td>
+    </tr>
   </tbody>
 </table>
 
