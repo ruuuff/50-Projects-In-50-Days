@@ -139,7 +139,7 @@ Este repositório contém o link de todos os projetos que desenvolvi durante o c
     </tr>
     <tr>
       <td>26</td>
-      <td><a href="https://github.com/ruuuff/double-vertical-slider">Sticky Navbar</a></td>
+      <td><a href="https://github.com/ruuuff/double-vertical-slider">Double Vertical Slider</a></td>
       <td align="center"><a href="https://double-vertical-slider-ruuuff.netlify.app/">Live Demo</a></td>
     </tr>
   </tbody>
