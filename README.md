@@ -142,6 +142,11 @@ Este repositório contém o link de todos os projetos que desenvolvi durante o c
       <td><a href="https://github.com/ruuuff/double-vertical-slider">Double Vertical Slider</a></td>
       <td align="center"><a href="https://double-vertical-slider-ruuuff.netlify.app/">Live Demo</a></td>
     </tr>
+    <tr>
+      <td>27</td>
+      <td><a href="https://github.com/RuuuFF/toast-notification">Toast Notification</a></td>
+      <td align="center"><a href="https://toast-notification-ruuuff.netlify.app/">Live Demo</a></td>
+    </tr>
   </tbody>
 </table>
 
