@@ -147,6 +147,11 @@ Este repositório contém o link de todos os projetos que desenvolvi durante o c
       <td><a href="https://github.com/RuuuFF/toast-notification">Toast Notification</a></td>
       <td align="center"><a href="https://toast-notification-ruuuff.netlify.app/">Live Demo</a></td>
     </tr>
+    <tr>
+      <td>28</td>
+      <td><a href="https://github.com/RuuuFF/github-pages">GitHub Pages</a></td>
+      <td align="center"><a href="https://github-pages-ruuuff.netlify.app/">Live Demo</a></td>
+    </tr>
   </tbody>
 </table>
 
