@@ -1,8 +1,13 @@
-## 📝 Sobre este repositório
+# 📝 Sobre este repositório
 Este repositório contém o link de todos os projetos que desenvolvi durante o curso <a href="https://www.udemy.com/share/103Pv2AEcYdFxQQXUH">50 Projects In 50 Days</a>, por <a href="https://www.udemy.com/user/brad-traversy/">Brad Traversy</a> e <a href="https://www.udemy.com/user/popflorin/">Florin Pop</a>.
 
+# ✈️ Tecnologias
+Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
+- HTML
+- CSS
+- JavaScript
 
-## 🗂️ Projetos
+# 🗂️ Projetos
 <table>
   <thead>
     <tr>
@@ -159,9 +164,3 @@ Este repositório contém o link de todos os projetos que desenvolvi durante o c
     </tr>
   </tbody>
 </table>
-
-## ✈️ Tecnologias
-Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
-- HTML
-- CSS
-- JavaScript
