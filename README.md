@@ -152,6 +152,11 @@ Este repositório contém o link de todos os projetos que desenvolvi durante o c
       <td><a href="https://github.com/RuuuFF/github-pages">GitHub Pages</a></td>
       <td align="center"><a href="https://github-pages-ruuuff.netlify.app/">Live Demo</a></td>
     </tr>
+    <tr>
+      <td>29</td>
+      <td><a href="https://github.com/RuuuFF/double-click-heart">Double Click Heart</a></td>
+      <td align="center"><a href="https://double-click-heart-ruuuff.netlify.app/">Live Demo</a></td>
+    </tr>
   </tbody>
 </table>
 
