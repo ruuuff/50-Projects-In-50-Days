@@ -167,5 +167,10 @@ Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
       <td><a href="https://github.com/RuuuFF/auto-text-effect">Auto Text Effect</a></td>
       <td align="center"><a href="https://auto-text-effect-ruuuff.netlify.app/">Live Demo</a></td>
     </tr>
+    <tr>
+      <td>31</td>
+      <td><a href="https://github.com/RuuuFF/password-generator">Password Generator</a></td>
+      <td align="center"><a href="https://password-generator-ruuuff.netlify.app/">Live Demo</a></td>
+    </tr>
   </tbody>
 </table>
