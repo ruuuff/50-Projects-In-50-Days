@@ -182,5 +182,10 @@ Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
       <td><a href="https://github.com/RuuuFF/notes-app">Notes App</a></td>
       <td align="center"><a href="https://notes-app-ruuuff.netlify.app/">Live Demo</a></td>
     </tr>
+    <tr>
+      <td>34</td>
+      <td><a href="https://github.com/RuuuFF/animated-countdown">Animated Countdown</a></td>
+      <td align="center"><a href="https://animated-countdown-ruuuff.netlify.app/">Live Demo</a></td>
+    </tr>
   </tbody>
 </table>
