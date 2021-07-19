@@ -187,5 +187,10 @@ Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
       <td><a href="https://github.com/RuuuFF/animated-countdown">Animated Countdown</a></td>
       <td align="center"><a href="https://animated-countdown-ruuuff.netlify.app/">Live Demo</a></td>
     </tr>
+    <tr>
+      <td>35</td>
+      <td><a href="https://github.com/RuuuFF/image-carousel">Image Carousel</a></td>
+      <td align="center"><a href="https://image-carousel-ruuuff.netlify.app/">Live Demo</a></td>
+    </tr>
   </tbody>
 </table>
