@@ -193,7 +193,7 @@ Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
       <td align="center"><a href="https://image-carousel-ruuuff.netlify.app/">Live Demo</a></td>
     </tr>
     <tr>
-      <td>35</td>
+      <td>36</td>
       <td><a href="https://github.com/RuuuFF/hoverboard">Hoverboard</a></td>
       <td align="center"><a href="https://hoverboard-ruuuff.netlify.app/">Live Demo</a></td>
     </tr>
