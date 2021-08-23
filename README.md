@@ -202,5 +202,10 @@ Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
       <td><a href="https://github.com/RuuuFF/pokedex">Pokedex</a></td>
       <td align="center"><a href="https://pokedex-ruuuff.netlify.app/">Live Demo</a></td>
     </tr>
+    <tr>
+      <td>38</td>
+      <td><a href="https://github.com/RuuuFF/mobile-tab-navigation">Mobile Tab Navigation</a></td>
+      <td align="center"><a href="https://mobile-tab-navigation-ruuuff.netlify.app/">Live Demo</a></td>
+    </tr>
   </tbody>
 </table>
