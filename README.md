@@ -207,5 +207,10 @@ Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
       <td><a href="https://github.com/RuuuFF/mobile-tab-navigation">Mobile Tab Navigation</a></td>
       <td align="center"><a href="https://mobile-tab-navigation-ruuuff.netlify.app/">Live Demo</a></td>
     </tr>
+    <tr>
+      <td>39</td>
+      <td><a href="https://github.com/RuuuFF/password-strength-background">Password Strength Background</a></td>
+      <td align="center"><a href="https://password-strength-background-ruuuff.netlify.app/">Live Demo</a></td>
+    </tr>
   </tbody>
 </table>
