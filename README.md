@@ -217,5 +217,10 @@ Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
       <td><a href="https://github.com/RuuuFF/3d-background-boxes">3D Background Boxes</a></td>
       <td align="center"><a href="https://3d-background-boxes-ruuuff.netlify.app/">Live Demo</a></td>
     </tr>
+    <tr>
+      <td>41</td>
+      <td><a href="https://github.com/RuuuFF/verify-account-ui">Verify Account UI</a></td>
+      <td align="center"><a href="https://verify-account-ui-ruuuff.netlify.app/">Live Demo</a></td>
+    </tr>
   </tbody>
 </table>
