@@ -222,5 +222,10 @@ Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
       <td><a href="https://github.com/RuuuFF/verify-account-ui">Verify Account UI</a></td>
       <td align="center"><a href="https://verify-account-ui-ruuuff.netlify.app/">Live Demo</a></td>
     </tr>
+    <tr>
+      <td>42</td>
+      <td><a href="https://github.com/RuuuFF/live-user-filter">Live User Filter</a></td>
+      <td align="center"><a href="https://live-user-filter-ruuuff.netlify.app/">Live Demo</a></td>
+    </tr>
   </tbody>
 </table>
