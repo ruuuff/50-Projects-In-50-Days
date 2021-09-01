@@ -237,5 +237,10 @@ Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
       <td><a href="https://github.com/RuuuFF/custom-range-slider">Custom Range Slider</a></td>
       <td align="center"><a href="https://custom-range-slider-ruuuff.netlify.app/">Live Demo</a></td>
     </tr>
+    <tr>
+      <td>45</td>
+      <td><a href="https://github.com/RuuuFF/netflix-navigation">Netflix Navigation</a></td>
+      <td align="center"><a href="https://netflix-navigation-ruuuff.netlify.app/">Live Demo</a></td>
+    </tr>
   </tbody>
 </table>
