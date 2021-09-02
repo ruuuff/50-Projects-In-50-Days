@@ -242,5 +242,10 @@ Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
       <td><a href="https://github.com/RuuuFF/netflix-navigation">Netflix Navigation</a></td>
       <td align="center"><a href="https://netflix-navigation-ruuuff.netlify.app/">Live Demo</a></td>
     </tr>
+    <tr>
+      <td>46</td>
+      <td><a href="https://github.com/RuuuFF/quiz-app">Quiz App</a></td>
+      <td align="center"><a href="https://quiz-app-ruuuff.netlify.app/">Live Demo</a></td>
+    </tr>
   </tbody>
 </table>
