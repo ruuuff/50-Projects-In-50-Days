@@ -247,5 +247,10 @@ Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
       <td><a href="https://github.com/RuuuFF/quiz-app">Quiz App</a></td>
       <td align="center"><a href="https://quiz-app-ruuuff.netlify.app/">Live Demo</a></td>
     </tr>
+    <tr>
+      <td>47</td>
+      <td><a href="https://github.com/RuuuFF/testimonial-box-switcher">Testimonial Box Switcher</a></td>
+      <td align="center"><a href="https://testimonial-box-switcher-ruuuff.netlify.app/">Live Demo</a></td>
+    </tr>
   </tbody>
 </table>
