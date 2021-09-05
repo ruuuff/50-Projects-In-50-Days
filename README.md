@@ -257,5 +257,10 @@ Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
       <td><a href="https://github.com/RuuuFF/random-image-feed">Random Image Feed</a></td>
       <td align="center"><a href="https://random-image-feed-ruuuff.netlify.app/">Live Demo</a></td>
     </tr>
+    <tr>
+      <td>49</td>
+      <td><a href="https://github.com/RuuuFF/todo-list">Todo List</a></td>
+      <td align="center"><a href="https://todo-list-ruuuff.netlify.app/">Live Demo</a></td>
+    </tr>
   </tbody>
 </table>
